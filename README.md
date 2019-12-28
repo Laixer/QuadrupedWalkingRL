@@ -1,6 +1,6 @@
 # Training a robot to walk using Unity ML-Agents
 
-# Environment
+## Environment
 
 * Agent: a 4-legged crawler with each leg having 2 joints. 
 * Goal : walk towards a dynamic target without falling.
@@ -9,7 +9,7 @@
 
 
 
-#Setup for Inference using the trained models
+## Setup for Inference using the trained models
 
 * Launch Unity
 * In the Project window, go to the Assets/ML-Agents/Simulation/Crawler/Scenes folder and open the CrawlerDynamic scene file.
@@ -19,7 +19,7 @@
 
 All training information and model statistics can be found in the summaries directory.
 
-# Setup for Training
+## Setup for Training
 
 * Download and install Anaconda with Python v3.6.1 or higher
 * It is recommended to create a conda environment and install the python dependencies there 
