@@ -1,5 +1,7 @@
 # Training a robot to walk using Unity ML-Agents
 
+![](SACagent.gif)
+
 ## Environment
 
 * Agent: a 4-legged crawler with each leg having 2 joints. 
